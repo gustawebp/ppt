@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Antic+Slab&family=Bebas+Neue&family=Montserrat:ital,wght@0,100;0,200;0,300;1,100&family=Roboto:ital,wght@1,300&display=swap');
+
+body{ text-align: center;
+    font-family: 'Antic Slab', serif;
+    background-color: #73B2D9;
+
+}
+
+
+h1{
+    text-transform: uppercase;
+}
+
+
+
+
+
+    #res   {
+        background-color: rgba(0, 0, 0, 0.075);
+        max-width: 250px;
+        height: 100px;
+        margin: auto;
+        border-radius: 10px;
+        color: white;
+        box-shadow: 1px 2px 6px #335d81;
+    }
+
+.button{
+    background-color: #F2D22E;
+    color: rgb(0, 0, 0);
+    border-radius: 25px;
+    border: 0;
+    width: 120px;
+    height: 40px;
+    box-shadow: 1px 2px 6px black;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25pt;
+}
+
+.button:hover{
+   font-size: 26pt ;
+   width: 122px;
+   height: 42px;
+
+}
+
+
+
+#say{
+    font-size: 20pt;
+
+
+}
+
+
+
+#esc{
+    font-size: 23pt;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: #F2B544;
+    height: 130px;
+    width: 250px;
+    margin: auto;
+    box-shadow: 2px 7px 8px #335d81;
+}
+p{
+    font-size: 15pt;
+    font-family: 'Montserrat', sans-serif;
+}
+.commit{
+    height: 70px;
+    width: 250px;
+    margin: auto;
+    background-color: #D97218;
+    border-radius: 5px;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.24);
+    color: white;
+    
+}
+a{
+    color: white;
+}
+/* font-family: 'Antic Slab', serif;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif; */
