@@ -18,7 +18,7 @@ h1{
     #res   {
         background-color: rgba(0, 0, 0, 0.075);
         max-width: 250px;
-        height: 100px;
+        height: 130px;
         margin: auto;
         border-radius: 10px;
         color: white;
@@ -59,15 +59,17 @@ h1{
     font-family: 'Roboto', sans-serif;
     text-align: center;
     background-color: #F2B544;
-    height: 130px;
+    height: 135px;
     width: 250px;
     margin: auto;
     box-shadow: 2px 7px 8px #335d81;
 }
+
 p{
     font-size: 15pt;
     font-family: 'Montserrat', sans-serif;
 }
+
 .commit{
     height: 70px;
     width: 250px;
@@ -80,6 +82,10 @@ p{
 }
 a{
     color: white;
+}
+
+#perdeu{
+    font-size: 15pt;
 }
 /* font-family: 'Antic Slab', serif;
 font-family: 'Bebas Neue', cursive;

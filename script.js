@@ -25,7 +25,7 @@ perdeu.innerHTML = 'VOCÊ PERDEU'
 }
 setTimeout(function(){
     window.location.reload();
- }, 4000);
+ }, 4500);
 
 
 
